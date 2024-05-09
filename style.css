@@ -1,3 +1,9 @@
-.brd {
-  border: 1px solid red;
+.carousel-inner {
+  height: 250px;
+}
+
+@media (min-width: 767.98px) {
+  .carousel-inner {
+    height: 400px;
+  }
 }
